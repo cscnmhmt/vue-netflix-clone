@@ -26,7 +26,7 @@ export default {
 
 <style scoped>
 .banner {
-  padding: 150px 20px;
+  padding: 150px 40px;
   background: url(../assets/banner.jpg);
   background-size: cover;
   display: flex;

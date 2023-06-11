@@ -1,0 +1,116 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "title": "NETFLIX ORIGINALS",
+      "images": [
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/large-movie1.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/large-movie2.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/large-movie3.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/large-movie4.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/large-movie5.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/large-movie6.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/large-movie7.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/large-movie8.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Trending Now",
+      "images": [
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie1.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie2.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie3.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie4.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie5.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie6.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie7.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie8.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Top Rated",
+      "images": [
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie1.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie2.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie3.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie4.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie5.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie6.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie7.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie8.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Action Movies",
+      "images": [
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie1.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie2.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie3.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie4.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie5.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie6.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie7.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie8.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Comedy Movies",
+      "images": [
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie1.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie2.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie3.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie4.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie5.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie6.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie7.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie8.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Horror Movies",
+      "images": [
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie1.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie2.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie3.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie4.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie5.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie6.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie7.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie8.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Romance Movies",
+      "images": [
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie1.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie2.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie3.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie4.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie5.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie6.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie7.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie8.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Documentaries",
+      "images": [
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie1.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie2.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie3.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie4.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie5.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie6.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie7.jpg",
+        "https://somanath-goudar.github.io/html-css-projects/netflix-clone/images/small-movie8.jpg"
+      ]
+    }
+  ]
+}
